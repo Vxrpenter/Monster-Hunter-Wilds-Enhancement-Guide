@@ -96,7 +96,7 @@ These are mods that are here for general performance improvements. Read their mo
 _This list is currently not that big because there haven't been that many mods released yet. If you think a mod is missing open an issue._
 
 # Credits
-These are all mods used, benchmarkings refered too etc. The creators of all of this content really put in the real world so check them out and give them a like, follow or whatever there is to give xD
+These are all mods used, benchmarkings refered too etc. The creators of all of this content really put in the real work so check them out and give them a like, follow or whatever there is to give xD
 
 ### [Digital Foundry](https://www.youtube.com/@DigitalFoundry)
 > [Monster Hunter Wilds PC - Profound Perf Problems Must Be Addressed](https://www.youtube.com/watch?v=0yhacyXcizA)
