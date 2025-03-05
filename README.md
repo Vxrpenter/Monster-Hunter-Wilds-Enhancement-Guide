@@ -1,4 +1,7 @@
-# Monster-Hunter-Wilds-Enhancement-Guide
+<div align="center">
+  <img height="400" weight="400" src="https://github.com/user-attachments/assets/935ff3cd-dfe1-42f5-875b-8fac5e8da22b">
+</div>
+
 > [!WARNING]
 > This is just a guide. I don't wrote any of the mods, reshades etc. This is just a set of instructions to help players find a way to play this game. This guide is has also some addons for Linux users because there are some extra steps for them to mod the game. Every instructionset with the almighty penguin xD can be safely skipped if you don't use Linux
 
