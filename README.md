@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" weight="400" src="https://github.com/user-attachments/assets/935ff3cd-dfe1-42f5-875b-8fac5e8da22b">
+  <img height="400" src="https://github.com/user-attachments/assets/935ff3cd-dfe1-42f5-875b-8fac5e8da22b">
 </div>
 
 > [!WARNING]
@@ -42,6 +42,12 @@ Hunter@linux:~$ curl -LO https://github.com/kevinlekiller/reshade-steam-proton/r
 Hunter@linux:~$ chmod u+x reshade-linux.sh
 ```
 3. Run the script and follow though with the installation. Let the script pick the correct things to install to get everything set up right
+4. Add this launch option to the game:
+```
+WINEDLLOVERRIDES="d3dcompiler_47=n; dxgi=n, b" %command%
+```
+
+<img height="400" src="https://github.com/user-attachments/assets/8b49ae0b-767a-49b4-8b2c-264980a4fb7c">
 
 ## Installing Dependencies
 All ReShades need the [REFramework](https://www.nexusmods.com/monsterhunterwilds/mods/93) to work properly so install that. Installation is really easy, just put the `dinput8.dll`in your games directory and you are finished.
@@ -64,8 +70,31 @@ Now it's just drag and drop, unzip the files, drag them into the folder you crea
 Capcom somehow screwed up DirectStorage which produces stutters. For a bit more information read the "mods" [description]([DirectStorage](https://www.nexusmods.com/monsterhunterwilds/mods/127))
 
 ## Upgrading to Version 1.2.3 <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
+It's pretty straight forward, download the files, then copy them into the games directory. Thats it, this fixes a lot of stutters, nothing that could have been done by CapCom themselves for sure ;)
 
 ## Upgrading to Version 1.2.3 <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+> [!CAUTION]
+> Not following these steps when installing on linux can lead to crashes of the entire system, not just the game
+
+1. Download the files
+2. Copy your old DirectStorage files: `dstoragecore.dll` and `dstorage.dll` to the following location:
+```
+/home/<YOUR USERNAME>/.steam/steam/steamapps/compatdata/2246340/pfx/drive_c/windows/system32 
+```
+3. Replace the old files in the games directory with the new one
+4. Add the following launch options to the game
+```
+WINEDLLOVERRIDES="dstorage,dstoragecore=n,b" %command%
+```
+<img height="400" src="https://github.com/user-attachments/assets/f42c0063-0f92-45e8-a43c-263229a7a247">
+
+
+# General Mod Recommendations
+These are mods that are here for general performance improvements. Read their mod pages for more information on what they do and how to install them:
+- [Wilds OPTIMIZER FPS BOOST LOW CPU CLEANER VISUALS AND BETTER STABILITY](https://www.nexusmods.com/monsterhunterwilds/mods/91)
+- [optimization for MonsterHunterWilds GPU AND CPU Performance FPS Optimizer](https://www.nexusmods.com/monsterhunterwilds/mods/88)
+
+_This list is currently not that big because there haven't been that many mods released yet. If you think a mod is missing open an issue._
 
 # Credits
 These are all mods used, benchmarkings refered too etc. The creators of all of this content really put in the real world so check them out and give them a like, follow or whatever there is to give xD
@@ -112,3 +141,8 @@ These are all mods used, benchmarkings refered too etc. The creators of all of t
 > [DirectStorage 1.2.2 Upgrade to 1.2.3 - IO Stutter Fix](https://www.nexusmods.com/monsterhunterwilds/mods/127)
 >
 > Really cool move to provide the needed files for upgrade
+
+### [VANIILAcoffee](https://next.nexusmods.com/profile/VANIILAcoffee)
+> [Wilds OPTIMIZER FPS BOOST LOW CPU CLEANER VISUALS AND BETTER STABILITY](https://www.nexusmods.com/monsterhunterwilds/mods/91)
+>
+> Nice optimization mod
