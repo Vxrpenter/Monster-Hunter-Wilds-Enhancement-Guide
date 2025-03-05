@@ -10,7 +10,7 @@
 First of all you should change some settings for both your performance sake and more.
 
 ### Upscaling and Frame Generation
-- **FRAME GENRATION** : As you should have noticed the game wants you to turn on frame generation real bad when you start it up. This can improve your FPS but **ONLY** when you are already running on stable 60 FPS. So the Frame Generation is really usefull for all of you running a e.g. 1440p or higher monitor
+- **FRAME GENERATION** : As you should have noticed the game wants you to turn on frame generation real bad when you start it up. This can improve your FPS but **ONLY** when you are already running on stable 60 FPS. So the Frame Generation is really usefull for all of you running a e.g. 1440p or higher monitor
 - **AI Upscaling** : Next we have DLSS and FSR. In the game there is no DLSS 4.0 available but you an force it's use thorugh the [Nvidea App](https://www.nvidia.com/en-us/software/nvidia-app/) (resulting in tests by [BenchmarKing](https://www.youtube.com/@benchmarking4386) in higher performance cost). Also if you are using an Nvidea GPU that can run DLSS 4 you might want to install the mod [NVIDIA Streamline update for DLSS 4 FG 310.2.1](https://www.nexusmods.com/monsterhunterwilds/mods/193?tab=description) by [Reiji21](https://next.nexusmods.com/profile/Reiji21). For install check the authors really good instructions.
 
 ### Brightness Settings
