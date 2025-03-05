@@ -21,7 +21,6 @@ No other settings will be discussed here because they don't really improve the p
 
 ---
 
-# ReShading using ReShade and Presets
 > [!CAUTION]
 > This will focus on improving visuals of the game and not improving performance. Only do these steps when you are already running the game with good performance because these changes can have a bit lower performance for more looks
 
