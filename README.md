@@ -68,7 +68,7 @@ Now it's just drag and drop, unzip the files, drag them into the folder you crea
 ---
 
 # Directstorage Upgrade
-Capcom somehow screwed up DirectStorage which produces stutters. For a bit more information read the "mods" [description]([DirectStorage](https://www.nexusmods.com/monsterhunterwilds/mods/127))
+Capcom somehow screwed up DirectStorage which produces stutters. For a bit more information read the "mods" [description](https://www.nexusmods.com/monsterhunterwilds/mods/127)
 
 ## Upgrading to Version 1.2.3 <img width="20" height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
 It's pretty straight forward, download the files, then copy them into the games directory. Thats it, this fixes a lot of stutters, nothing that could have been done by CapCom themselves for sure ;)
