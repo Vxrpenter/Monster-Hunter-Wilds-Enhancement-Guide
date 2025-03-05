@@ -3,7 +3,7 @@
 </div>
 
 > [!WARNING]
-> This is just a guide. I don't wrote any of the mods, reshades etc. This is just a set of instructions to help players find a way to play this game. This guide is has also some addons for Linux users because there are some extra steps for them to mod the game. Every instructionset with the almighty penguin xD can be safely skipped if you don't use Linux
+> This is just a guide. I don't wrote any of the mods, reshades etc. This is just a set of instructions to help players find a way to play this game. This guide has also some addons for Linux users because there are some extra steps for them to mod the game. Every instructionset with the almighty penguin xD can be safely skipped if you don't use Linux
 
 # General Settings
 
