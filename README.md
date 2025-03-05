@@ -127,17 +127,17 @@ These are all mods used, benchmarkings refered too etc. The creators of all of t
 >
 > Good intallation script to make the reshade installation on linux painfull and easy
 
-### [ISpectre23](https://next.nexusmods.com/profile/ISpectre23?gameId=6993)
+### [ISpectre23](https://next.nexusmods.com/profile/ISpectre23)
 > [Wilds Rehydrated - ReShade](https://www.nexusmods.com/monsterhunterwilds/mods/50)
 >
 > Good looking reshade that really improves the game
 
-### [Kumakichisun](https://next.nexusmods.com/profile/Kumakichisun?gameId=6993)
+### [Kumakichisun](https://next.nexusmods.com/profile/Kumakichisun)
 > [Cute preset with ReShade - Tiffany](https://www.nexusmods.com/monsterhunterwilds/mods/52)
 >
 > Good preset that improved the game by a fair amount
 
-### [Darex2094](https://next.nexusmods.com/profile/Darex2094?gameId=6993)
+### [Darex2094](https://next.nexusmods.com/profile/Darex2094)
 > [DirectStorage 1.2.2 Upgrade to 1.2.3 - IO Stutter Fix](https://www.nexusmods.com/monsterhunterwilds/mods/127)
 >
 > Really cool move to provide the needed files for upgrade
@@ -146,3 +146,8 @@ These are all mods used, benchmarkings refered too etc. The creators of all of t
 > [Wilds OPTIMIZER FPS BOOST LOW CPU CLEANER VISUALS AND BETTER STABILITY](https://www.nexusmods.com/monsterhunterwilds/mods/91)
 >
 > Nice optimization mod
+
+### [velasquez3589](https://next.nexusmods.com/profile/velasquez3589)
+> [optimization for MonsterHunterWilds GPU AND CPU Performance FPS Optimizer](https://www.nexusmods.com/monsterhunterwilds/mods/88)
+>
+> Good optimization mod
