@@ -29,5 +29,5 @@ These are all mods used, benchmarkings refered too etc. The creators of all of t
 > Used the general advise for shading, reshade usage and some of the metrics to get to this standpoint. Also a really nice video with good points and recommendations
 
 ### [Reiji21](https://next.nexusmods.com/profile/Reiji21)
-> [NVIDIA Streamline update for DLSS 4 FG 310.2.1)(https://www.nexusmods.com/monsterhunterwilds/mods/193?tab=description)
+> [NVIDIA Streamline update for DLSS 4 FG 310.2.1](https://www.nexusmods.com/monsterhunterwilds/mods/193?tab=description)
 > Mod for Nvidea's DLSS 4.0 implementation
