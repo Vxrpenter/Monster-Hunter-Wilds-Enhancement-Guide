@@ -4,7 +4,7 @@
   
 | Untinkered State | ProtonDB Rating | Latest Update | Optimization Advise |
 | --- | --- | --- | --- |
-| `Playable` | <img width="130" height="30" src="https://github.com/user-attachments/assets/a0313b12-9ec4-4b2a-8deb-53f2224064e6"> | `07.03.25` | Highly Recommended |
+| `Playable` | <img width="130" height="30" src="https://github.com/user-attachments/assets/20bfb2b0-1166-4e75-aa4e-e3d406aa1810"> | `07.03.25` | Highly Recommended |
 </div>
 
 > [!WARNING]
