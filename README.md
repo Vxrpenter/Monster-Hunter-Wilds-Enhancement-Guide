@@ -11,4 +11,4 @@ This is a small project where I list game optimization tips that I have found so
 | <a href="https://github.com/Vxrpenter/Optimization-Wiki/blob/main/monster-hunter-wilds.md"><img width="100" width="233" src="https://github.com/user-attachments/assets/e09b3658-0ace-4839-bca7-229cfb4307e1"></a> | `Modding`, `Settings Optimizations`, `Reshading`, `Enhancement`, `File Replacement`, `Linux Compatiblility`, `Recommended`, `Uncomplicated` | 06.03.25 | Decently Compelte |
 
 ## How to Contribute
-This page is WIP, create an issue for now and look at the [Structure and Examples](https://github.com/Vxrpenter/Optimization-Wiki/tree/main/internal) Page
+This page is WIP, create an issue for now and look at the [Structure and Examples](https://github.com/Vxrpenter/Optimization-Wiki/blob/main/internal/strucure-examples.md) Page
