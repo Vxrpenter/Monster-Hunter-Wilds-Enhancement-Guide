@@ -12,3 +12,8 @@ This is a small project where I list game optimization tips that I have found so
 
 ## How to Contribute
 This page is WIP, create an issue for now and look at the [Structure and Examples](https://github.com/Vxrpenter/Optimization-Wiki/blob/main/internal/strucure-examples.md) Page
+
+## TODO
+| Feature | Purpose |
+| --- | --- |
+| Create better interface with [just the docs](https://github.com/just-the-docs/just-the-docs) | Make the experience for all users better by providing real user interface and better tools for editors |
