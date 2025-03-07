@@ -1,9 +1,9 @@
 ## Structure
-| Part of the Text | Explanation |
-| --- | --- |
-| Top | A table containing the most relavant information. The untinkered state of the game, the current rating on PrtonDB, when the article was last updated as well as the recommendation for using the optimization methods |
-| Body | |
-| Bottom | |
+| Part of the Text | Explanation                                                                                                                                                                                                            |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Top              | A table containing the most relavant information. The untinkered state of the game, the current rating on ProtonDB, when the article was last updated as well as the recommendation for using the optimization methods |
+| Body             |                                                                                                                                                                                                                        |
+| Bottom           |                                                                                                                                                                                                                        |
 
 ## Assets and more
 
@@ -11,8 +11,8 @@
 | --- | --- |
 | |  |
 
-| ProtonDB Rating | IMG Tag containing the Image |
-| --- | --- |
+| ProtonDB Rating                                                                                                     | IMG Tag containing the Image                                                                                          |
+|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | <img width="130" height="30" src="https://github.com/user-attachments/assets/a0313b12-9ec4-4b2a-8deb-53f2224064e6"> | `<img width="130" height="30" src="https://github.com/user-attachments/assets/a0313b12-9ec4-4b2a-8deb-53f2224064e6">` |
 | <img width="130" height="30" src="https://github.com/user-attachments/assets/564edf80-843a-400c-a046-eb8e02a9f033"> | `<img width="130" height="30" src="https://github.com/user-attachments/assets/564edf80-843a-400c-a046-eb8e02a9f033">` |
 | <img width="130" height="30" src="https://github.com/user-attachments/assets/86ba22e6-0768-4aa3-b439-150b4e6ea95f"> | `<img width="130" height="30" src="https://github.com/user-attachments/assets/86ba22e6-0768-4aa3-b439-150b4e6ea95f">` |
