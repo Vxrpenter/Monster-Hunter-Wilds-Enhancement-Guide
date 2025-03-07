@@ -1,5 +1,10 @@
 <div align="center">
   <img height="400" src="https://github.com/user-attachments/assets/935ff3cd-dfe1-42f5-875b-8fac5e8da22b">
+
+  
+| Untinkered State | ProtonDB Rating | Latest Update | Optimization Advise |
+| --- | --- | --- | --- |
+| `Playable` | <img width="130" height="30" src="https://github.com/user-attachments/assets/a0313b12-9ec4-4b2a-8deb-53f2224064e6"> | `07.03.25` | Highly Recommended |
 </div>
 
 > [!WARNING]
