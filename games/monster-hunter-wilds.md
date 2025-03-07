@@ -2,9 +2,9 @@
   <img height="400" src="https://github.com/user-attachments/assets/935ff3cd-dfe1-42f5-875b-8fac5e8da22b" alt="logo">
 
   
-| Untinkered State | ProtonDB Rating                                                                                                     | Last Updated | Recommended Optimization |
-|------------------|---------------------------------------------------------------------------------------------------------------------|--------------|--------------------------|
-| Playable         | <img width="130" height="30" src="https://github.com/user-attachments/assets/86ba22e6-0768-4aa3-b439-150b4e6ea95f"> | `07.03.25`   | Highly Recommended       |
+| Untinkered State | ProtonDB Rating                                                         | Last Updated | Recommended Optimization |
+|------------------|-------------------------------------------------------------------------|--------------|--------------------------|
+| Playable         | <img width="130" height="30" src="/assets/protondb-ratings/silver.png"> | `07.03.25`   | Highly Recommended       |
 </div>
 
 > [!WARNING]
