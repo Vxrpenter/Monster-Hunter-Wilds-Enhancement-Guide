@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This will be migrated to the new [Optimization Wiki](https://github.com/Vxrpenter/Optimization-Wiki) that uses just the docs for easier editing, styling and more
+
 <div align="center">
   <h1>Optimization Wiki</h1>
 </div>
